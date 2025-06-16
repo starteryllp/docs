@@ -1,32 +1,44 @@
-# Mintlify Starter Kit
+# Startery Docs
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+The official documentation for Startery — where top talent meets purposeful work.
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+## What is Startery?
 
-### Development
+Startery is a global platform where top talent builds real-world experience, levels up, and gets paid to work on meaningful projects.
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
+We blend consulting, staffing, and freelance marketplaces into one cohesive workforce-as-a-service platform — built for students, operators, founders, and future partners.
 
-```
-npm i -g mintlify
-```
+Startery is for those who build with integrity, learn by doing, and want to co-create a more purposeful economy.
 
-Run the following command at the root of your documentation (where docs.json is)
+## Docs Overview
 
-```
-mintlify dev
-```
+These docs are for:
 
-### Publishing Changes
+- Operators and Talent: Apply to work, level up your career, and get paid doing meaningful projects.
+- Startups and Companies: Post projects, get matched to top talent, and scale faster without hiring overhead.
+- Partners and Leaders: Build a book of business, lead teams, earn equity, and shape the future of work.
+- Curious Visitors: Learn the deeper philosophy behind Startery and what we’re building.
 
-Install our Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
+## Structure
 
-#### Troubleshooting
+The docs are organized as follows:
 
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `docs.json`
+- Overview: What Startery is, how it works, who it serves
+- For Talent: Application process, levels, pay, and benefits
+- For Companies: Project workflows, staffing process, pricing
+- For Partners: Bringing in clients, revenue sharing, leadership
+- Features: Launchpad, Bountyboard, AI Agents, Compliance
+- Resources: Templates, glossary, case studies
+- Philosophy: Mission, Partner Pledge, and the CENT
+
+## External Links
+
+- Startery Home: https://startery.io
+- Community Discord: https://discord.gg/uhnXCUgs
+- Startery Blog: https://startery.io/blog
+
+## License
+
+All content © Startery LLP. All rights reserved.
+
+Let’s build something that outlasts us.
